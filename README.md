@@ -1,0 +1,1 @@
+A simple countdown app using HTML, CSS, and JS.
